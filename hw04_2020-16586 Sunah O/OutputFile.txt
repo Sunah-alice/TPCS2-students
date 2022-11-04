@@ -1,0 +1,5 @@
+UlsanFC K1 4 -1
+JeonbukFC K1 7 3
+Steelers K1 8 3
+GangwonFC K1 2 -5
+JejuFC K1 5 0

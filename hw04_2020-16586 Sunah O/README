@@ -1,0 +1,12 @@
+## The program seperate classes for reading from a file, writing to a file,
+## and a class for storing the data.
+
+### To compile the program:
+### change the current directory to the hw04 folder
+### then we use the command:
+### g++ main.cpp file_stream.cpp Club.cpp
+### this command will create an executable file in the hw04 folder, for eg. a.out, a.exe
+
+### To run the program:
+./[executable_file_name] [/path/to/input_file] [/path/to/output_file]
+### eg. ./a InputFile.txt OutputFile.txt -> get informations on InputFile.txt & write on OutputFile.txt 
